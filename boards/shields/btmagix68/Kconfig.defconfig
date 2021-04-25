@@ -1,0 +1,6 @@
+if SHIELD_BTMAGIX68
+
+config ZMK_KEYBOARD_NAME
+    default "btmagix68"
+
+endif
